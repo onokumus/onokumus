@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<a href="https://github.com/onokumus">
-  <img height="225" src="https://github-readme-stats.vercel.app/api?username=onokumus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onokumus&theme=dark"/>
-</a>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
